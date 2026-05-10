@@ -35,4 +35,4 @@ This project allows students to view, download and admin can upload notes direct
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/tera-username/college-notes-mongo.git
+   git clone https://github.com/Mukesh743-kisku/college-notes-mongo.git
