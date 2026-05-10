@@ -6,7 +6,7 @@ st.set_page_config(page_title="View Notes", page_icon="📚")
 
 @st.cache_resource
 def init_connection():
-    return MongoClient(st.secrets["mongo"]["uri"])
+    return MongoClient(os.environ["MONGO_URI"])
 
 client = init_connection()
 db = client.notes_db
