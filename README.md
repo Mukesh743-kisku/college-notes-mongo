@@ -7,7 +7,9 @@ This project allows students to view, download and admin can upload notes direct
 
 👉 https://ecom-backend-py.onrender.com
 
----
+## 📸 Screenshots
+
+![App Screenshot](https://via.placeholder.com/800x400.png?text=Your+App+Screenshot+Here)
 
 ## 📌 Features
 
