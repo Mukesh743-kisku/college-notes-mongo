@@ -1,6 +1,6 @@
 import streamlit as st
 from pymongo import MongoClient
-import io
+import os
 
 st.set_page_config(page_title="View Notes", page_icon="📚")
 
